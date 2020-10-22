@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sameer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 <br />
 
@@ -37,9 +37,9 @@
 ---
   <!-- <summary>:zap: GitHub Stats</summary> -->
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mauryasameer&show_icons=true&hide_border=false&count_private=true&theme=dark" />
+  <img align="left" alt="Sameer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mauryasameer&show_icons=true&hide_border=false&count_private=true&theme=dark" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauryasameer&layout=demo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[linkedin]: www.linkedin.com/in/mauryasameer
+[linkedin]: https://www.linkedin.com/in/mauryasameer
