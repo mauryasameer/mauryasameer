@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working with ValuFirst. 
 - 👯 I’m looking to collaborate with other deep learning practitioners.
-- 🥅 2020 Goals: Have a better Kaggle account
+- 🥅 2021 Goals: Have a better Kaggle account
 
 ### Connect with me:
 
