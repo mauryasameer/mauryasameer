@@ -1,5 +1,5 @@
 # 💫 About Me:
-Four years of experience as a data scientist with specialized work in computer vision and natural language processing, proficiency in python and all major deep learning frameworks, Completed major projects involving computer vision and deep learning on edge, deployed multiple deep learning projects on aws/Heroku/Azure for different clients.
+With over six years of experience, I am a seasoned Data Scientist specializing in Computer Vision, Natural Language Processing (NLP), Large Language Models, and Generative AI. My technical proficiency encompasses Python and advanced deep-learning frameworks. I have spearheaded significant computer vision and deep learning projects, particularly tailored for edge computing environments. My portfolio includes deploying various deep-learning solutions on platforms such as AWS, Heroku, and Azure. This diverse experience has provided me with a comprehensive understanding of the entire machine learning project lifecycle. Additionally, I possess expertise in Model Risk Management and Responsible AI, ensuring the development and deployment of robust, ethical AI solutions.
 
 
 ## 🌐 Socials:
